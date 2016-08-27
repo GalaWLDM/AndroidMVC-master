@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/William/Downloads/AndroidMVC-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/William/Downloads/AndroidMVC-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.0_8d70de7899a29954f6191c91d5161e6527547a43/classes.dex" />
+    </item>
+    <item
+        jar="/Users/William/Downloads/AndroidMVC-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b76af0c976f9d24c01d332ef66b788c41640c6f6">
+        <dex dex="/Users/William/Downloads/AndroidMVC-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_23049a7e86c195a8f829fe8ddf8646aa67cc8cde/classes.dex" />
+    </item>
+    <item
+        jar="/Users/William/Downloads/AndroidMVC-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/William/Downloads/AndroidMVC-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_4d181da3521491918e3d1527fe9c318ac75f5ccf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/William/Downloads/AndroidMVC-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6cf9e89af5e147d7352262619535ff49ff0b8f06">
+        <dex dex="/Users/William/Downloads/AndroidMVC-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6a837169ab1c50fb737634b8adea01a41b330adb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/William/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/William/Downloads/AndroidMVC-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_07869d830bb9dd717b797018a2684c25bcdef465/classes.dex" />
+    </item>
+    <item
+        jar="/Users/William/Downloads/AndroidMVC-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/William/Downloads/AndroidMVC-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_eaa76b692a7b9c495d9ce8d379c29b7aae006d81/classes.dex" />
+    </item>
+
+</items>
