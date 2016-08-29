@@ -12,7 +12,7 @@
         jar="/Users/William/Downloads/AndroidMVC-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="b76af0c976f9d24c01d332ef66b788c41640c6f6">
+        sha1="184bc43b23160fdd451048c1d0072f6869883ae7">
         <dex dex="/Users/William/Downloads/AndroidMVC-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_23049a7e86c195a8f829fe8ddf8646aa67cc8cde/classes.dex" />
     </item>
     <item
@@ -26,7 +26,7 @@
         jar="/Users/William/Downloads/AndroidMVC-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="6cf9e89af5e147d7352262619535ff49ff0b8f06">
+        sha1="6999be8b41d8f6e39b041af67622bac9770b48ce">
         <dex dex="/Users/William/Downloads/AndroidMVC-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6a837169ab1c50fb737634b8adea01a41b330adb/classes.dex" />
     </item>
     <item

@@ -4,9 +4,11 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     tools:context=".View.LoginActivity">
+
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
+
         <LinearLayout
             android:layout_width="match_parent" android:layout_height="wrap_content"
             android:layout_marginBottom="40dp"
@@ -15,32 +17,44 @@
             android:paddingTop="@dimen/activity_vertical_margin"
             android:orientation="vertical"
             android:gravity="center">
-        <ImageView
-            android:layout_width="@dimen/size_image"
-            android:layout_height="@dimen/size_image"
-            android:layout_marginBottom="@dimen/activity_vertical_margin"
-            android:src="@mipmap/ic_user2"/>
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/editUsername"
-            android:layout_marginBottom="@dimen/activity_vertical_margin"
-            android:hint="@string/hint_username"/>
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/editPassword"
-            android:layout_marginBottom="@dimen/activity_vertical_margin"
-            android:inputType="textPassword"
-            android:hint="@string/hint_password"/>
-        <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="@string/btn_login"
-            android:background="@color/colorButton"
-            android:layout_marginBottom="@dimen/activity_vertical_margin"
-            android:id="@+id/btnLogin"
-            android:onClick="login"/>
+
+            <ImageView
+                android:layout_width="@dimen/size_image"
+                android:layout_height="@dimen/size_image"
+                android:layout_marginBottom="@dimen/activity_vertical_margin"
+                android:src="@mipmap/ic_user2" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editUsername"
+                android:layout_marginBottom="@dimen/activity_vertical_margin"
+                android:hint="@string/hint_username" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editPassword"
+                android:layout_marginBottom="@dimen/activity_vertical_margin"
+                android:inputType="textPassword"
+                android:hint="@string/hint_password" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/btn_login"
+                android:background="@color/colorButtonLog"
+                android:layout_marginBottom="@dimen/activity_vertical_margin"
+                android:id="@+id/btnLogin"
+                android:onClick="login" />
+
+            <TextView
+                android:id="@+id/tvRegisterLink"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Register Here"
+                android:textStyle="bold"
+                android:textSize="@dimen/abc_text_size_headline_material" />
     </LinearLayout>
 </ScrollView>
 </LinearLayout>
