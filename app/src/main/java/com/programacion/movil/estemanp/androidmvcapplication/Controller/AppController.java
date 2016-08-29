@@ -17,7 +17,6 @@ public class AppController {
 
         }
         return _instance;
-
     }
 
     private List<User> users;
