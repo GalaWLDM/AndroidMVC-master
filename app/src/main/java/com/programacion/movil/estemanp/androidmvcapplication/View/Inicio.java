@@ -24,6 +24,9 @@ public class Inicio extends AppCompatActivity implements View.OnClickListener {
         BLogin=(android.widget.Button) this.findViewById(R.id.buttonIN);
         BRegistrer=(android.widget.Button) this.findViewById(R.id.buttonUP);
 
+        BLogin.setOnClickListener(this);
+        BRegistrer.setOnClickListener(this);
+
     }
 
     @Override
